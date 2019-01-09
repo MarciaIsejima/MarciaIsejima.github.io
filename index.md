@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/MarciaIsejima/MarciaIsejima.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MarciaIsejima/MarciaIsejima.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Week 1
+## Project A: My First React Application
+### Description
+Learn how to build a React Application from scratch.
+### Objectives
+Build a simple CRUD application using React framework
+Learn the basics of React, such as components, the JSX syntax, state, props, life cycles, and state management
+### Rationale
+According to HackerRank's 2018 Developer Skills Report, React framework, along with Angular and Node.js, is among the most in-demand skillset for developers. As my career objective is to become a full-stack developer, I think this is an excellent opportunity for me to learn and update my skills and strenghten my profile when searching for a job in the near future. 
+### Deliverables
+* React and related tools installation and configuration
+* Simple Notepad application, accessing Firebase to store data
+* Tutorial document, explaining each step of the application building process
+### References
+Learning Path ["Building a React App from Scratch"](https://www.safaribooksonline.com/learning-paths/learning-path-building/9781491991794) from Safari Books Online.
