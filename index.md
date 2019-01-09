@@ -10,5 +10,6 @@ According to HackerRank's 2018 Developer Skills Report, React framework, along w
 * React and related tools installation and configuration
 * Simple Notepad application, accessing Firebase to store data
 * Tutorial document, explaining each step of the application building process
+
 ## References
 Learning Path ["Building a React App from Scratch"](https://www.safaribooksonline.com/learning-paths/learning-path-building/9781491991794) from Safari Books Online.
