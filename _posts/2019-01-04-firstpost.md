@@ -1,3 +1,6 @@
-# Title of Our First Post
+### Week 1
+Decided on Project A topic: Building My First React Application.
 
-Some content for the post.
+Have found an interesting source for helping me in this project: the learning path ["Building a React App from Scratch"](https://www.safaribooksonline.com/learning-paths/learning-path-building/9781491991794) available at Safari Books Online. Apparently this tutorial is designed for entry-level application and web developers and have as main learning outcomes:
+* the basics of React, such as components, state, props, life cycles, and JSX
+* using React with CSS and backend servers
