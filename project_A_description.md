@@ -13,4 +13,4 @@ Learning Path ["Building a React App from Scratch"](https://www.safaribooksonlin
 * Simple Notepad application, accessing Firebase to store data
 * Tutorial document, explaining each step of the application building process
 
-## [Back to Home Page](https://github.com/MarciaIsejima/MarciaIsejima.github.io)
+## [Back to Home Page](https://MarciaIsejima.github.io)
