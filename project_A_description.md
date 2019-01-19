@@ -1,4 +1,4 @@
-# [Project A: My First React Application](https://github.com/MarciaIsejima/MarciaIsejima.github.io)
+# [Project A: My First React Application](https://MarciaIsejima.github.io)
 ## Description
 Learn how to build a React Application from scratch.
 ## Objectives
